@@ -1,0 +1,24 @@
+{
+  "name": "M05_blogPosts",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingrid-oncken/M05_blogPosts.git"
+  },
+  "keywords": [],
+  "author": "Ingrid Oncken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingrid-oncken/M05_blogPosts/issues"
+  },
+  "homepage": "https://github.com/ingrid-oncken/M05_blogPosts#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
